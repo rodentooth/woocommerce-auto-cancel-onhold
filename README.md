@@ -1,4 +1,4 @@
-# woocommerce-auto-cancel-onhold
+# woocommerce auto cancel on hold orders
 
 Infos can be found here:
 
