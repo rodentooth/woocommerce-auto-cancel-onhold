@@ -11,11 +11,11 @@
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Emanuel Graf
- * Author URI:        https://wp-plugins.emanuelgraf.me//
+ * Author URI:        https://wp-plugins.emanuelgraf.me/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Update URI:        todo
- * Text Domain:       wc-auto-cancel-onhold
+ * Text Domain:       woocommerce-auto-cancel-onhold
  */
 
 
